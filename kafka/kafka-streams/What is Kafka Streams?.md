@@ -13,11 +13,11 @@
 
 * Works for any application size
 
-  ![image-20210823163250040](/home/muhdlaziem/Workspace/notes/kafka/kafka-streams/assets/image-20210823163250040.png)
+  ![image-20210823163250040](./assets/image-20210823163250040.png)
 
 ## Kafka Streams Architecture Design
 
-![image-20210823164010947](/home/muhdlaziem/Workspace/notes/kafka/kafka-streams/assets/image-20210823164010947.png)
+![image-20210823164010947](./assets/image-20210823164010947.png)
 
 ## Kafka Streams history
 
