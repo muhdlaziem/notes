@@ -52,3 +52,7 @@ CREATE
 (Angie)-[:CONTACT_DIRECTLY]->(hla),
 (Angie)-[:WORKED_ON]->(task6),
 (task6)-[:IN]->(ekyc)
+
+// CREATE CONSTRAINT ON (emp:Employee) ASSERT emp.name IS UNIQUE
+// CREATE CONSTRAINT ON (emp:Employee) ASSERT exists(emp.name)
+// Contraint is for enterprise version only
