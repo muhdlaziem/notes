@@ -55,4 +55,4 @@ CREATE
 
 // CREATE CONSTRAINT ON (emp:Employee) ASSERT emp.name IS UNIQUE
 // CREATE CONSTRAINT ON (emp:Employee) ASSERT exists(emp.name)
-// Contraint is for enterprise version only
+// Exist Constraint is for enterprise version only
